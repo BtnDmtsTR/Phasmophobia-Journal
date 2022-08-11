@@ -1,3 +1,5 @@
+# [DISCORD SERVER](https://discord.gg/5J7hUhRR8q)
+
 # Phasmophobia Journal
 
 https://daniigp.github.io/Phasmophobia-Journal
