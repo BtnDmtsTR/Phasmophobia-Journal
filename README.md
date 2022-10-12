@@ -2,7 +2,7 @@
 
 # Phasmophobia Journal
 
-https://daniigp.github.io/Phasmophobia-Journal
+https://DaniGP17.github.io/Phasmophobia-Journal
 
 Web version of the Phasmophobia journal's evidence and ghost pages
 
